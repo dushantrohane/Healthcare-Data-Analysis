@@ -121,9 +121,9 @@ Dushant Rohane
 Data Analyst
 
 Email: dushantrohane@gmail.com
-
 GitHub: github.com/dushantrohane
-
-Screenshot : 
-
 LinkedIn: linkedin.com/in/dushant-rohane/
+
+Screenshot : https://github.com/dushantrohane/Healthcare-Data-Analysis/blob/main/Dashboard.png
+
+
